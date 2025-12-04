@@ -17,6 +17,7 @@ The project combines supervised learning, unsupervised learning, and feature ext
 
 The model uses a publicly available Airline On-Time Performance dataset (USA, 2023).
 It contains real flight-level metrics including:
+https://www.transtats.bts.gov/DataIndex.asp LINK FOR DATASET DOWLOADING
 
 Flight timings
 
@@ -94,7 +95,7 @@ The model comparison shows exceptionally high performance across all classifiers
  ┣ 📂 images                   → All visualisations
  ┣ 📜 assessment.py            → Main ML pipeline script
  ┣ 📜 README.md                → Project documentation
- ┗ 📜 dataset.csv              → Airline performance dataset
+
 
 👩‍💻 Author
 
