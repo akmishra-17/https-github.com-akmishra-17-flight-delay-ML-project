@@ -20,17 +20,11 @@ It contains real flight-level metrics including:
 https://www.transtats.bts.gov/DataIndex.asp LINK FOR DATASET DOWLOADING
 
 Flight timings
-
 Departure & arrival delays
-
 Aircraft taxi times
-
 Origin & destination airports
-
 Carrier information
-
 Target variable:
-
 Arrival Delay ≥ 15 minutes (binary classification)
 
 🧠 Machine Learning Models Implemented
